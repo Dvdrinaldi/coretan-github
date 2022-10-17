@@ -324,4 +324,3 @@ venv/
 
 Contoh koleksi gitignore yang berguna  
 https://github.com/github/gitignore
-Footer
